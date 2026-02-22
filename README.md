@@ -50,11 +50,15 @@ Serve as a portfolio project showcasing practical development skills
 
 Clone the repository
 
+```Bash
 git clone https://github.com/your-username/cgpa-calculator.git
+```
 
 Navigate to the project directory
 
+```Bash
 cd cgpa-calculator
+```
 
 Run the application (based on your framework)
 
