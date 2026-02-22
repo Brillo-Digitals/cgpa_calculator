@@ -51,7 +51,7 @@ Serve as a portfolio project showcasing practical development skills
 Clone the repository
 
 ```Bash
-git clone https://github.com/your-username/cgpa-calculator.git
+git clone https://github.com/Brillo-Digitals/cgpa_calculator.git
 ```
 
 Navigate to the project directory
