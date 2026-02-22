@@ -53,7 +53,6 @@ Clone the repository
 ```Bash
 git clone https://github.com/Brillo-Digitals/cgpa_calculator.git
 ```
-
 Navigate to the project directory
 
 ```Bash
